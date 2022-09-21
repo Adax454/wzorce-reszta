@@ -1,0 +1,24 @@
+C:\Users\adax4\Desktop\ProjektowanieSystemowInformatycznych-main\Adapter finalna wersja\Adapter\obj\Debug\Adapter_kino.csproj.AssemblyReference.cache
+C:\Users\adax4\Desktop\ProjektowanieSystemowInformatycznych-main\Adapter finalna wersja\Adapter\obj\Debug\Adapter_kino.csproj.SuggestedBindingRedirects.cache
+C:\Users\adax4\Desktop\ProjektowanieSystemowInformatycznych-main\Adapter finalna wersja\Adapter\obj\Debug\Adapter_kino.csproj.CoreCompileInputs.cache
+C:\Users\adax4\Desktop\ProjektowanieSystemowInformatycznych-main\Adapter finalna wersja\Adapter\obj\Debug\Adapter.exe
+C:\Users\adax4\Desktop\ProjektowanieSystemowInformatycznych-main\Adapter finalna wersja\Adapter\obj\Debug\Adapter.pdb
+C:\Users\adax4\Desktop\ProjektowanieSystemowInformatycznych-main\Adapter finalna wersja\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\adax4\Desktop\ProjektowanieSystemowInformatycznych-main\Adapter finalna wersja\Adapter\bin\Debug\Adapter.exe
+C:\Users\adax4\Desktop\ProjektowanieSystemowInformatycznych-main\Adapter finalna wersja\Adapter\bin\Debug\Adapter.pdb
+C:\Users\adax4\Desktop\Adapter Kino\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\adax4\Desktop\Adapter Kino\Adapter\bin\Debug\Adapter.exe
+C:\Users\adax4\Desktop\Adapter Kino\Adapter\bin\Debug\Adapter.pdb
+C:\Users\adax4\Desktop\Adapter Kino\Adapter\obj\Debug\Adapter_kino.csproj.AssemblyReference.cache
+C:\Users\adax4\Desktop\Adapter Kino\Adapter\obj\Debug\Adapter_kino.csproj.SuggestedBindingRedirects.cache
+C:\Users\adax4\Desktop\Adapter Kino\Adapter\obj\Debug\Adapter_kino.csproj.CoreCompileInputs.cache
+C:\Users\adax4\Desktop\Adapter Kino\Adapter\obj\Debug\Adapter.exe
+C:\Users\adax4\Desktop\Adapter Kino\Adapter\obj\Debug\Adapter.pdb
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Adapter Kino\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Adapter Kino\Adapter\bin\Debug\Adapter.exe
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Adapter Kino\Adapter\bin\Debug\Adapter.pdb
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Adapter Kino\Adapter\obj\Debug\Adapter_kino.csproj.AssemblyReference.cache
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Adapter Kino\Adapter\obj\Debug\Adapter_kino.csproj.SuggestedBindingRedirects.cache
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Adapter Kino\Adapter\obj\Debug\Adapter_kino.csproj.CoreCompileInputs.cache
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Adapter Kino\Adapter\obj\Debug\Adapter.exe
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Adapter Kino\Adapter\obj\Debug\Adapter.pdb

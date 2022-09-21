@@ -1,0 +1,37 @@
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.csprojAssemblyReference.cache
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.csproj.CoreCompileInputs.cache
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/IteratorPattern/IteratorPattern/bin/Debug/IteratorPattern.exe.config
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/IteratorPattern/IteratorPattern/bin/Debug/IteratorPattern.exe
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/IteratorPattern/IteratorPattern/bin/Debug/IteratorPattern.pdb
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.exe
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.pdb
+/Users/uneysalkis/Downloads/IteratorPattern/IteratorPattern/bin/Debug/IteratorPattern.exe.config
+/Users/uneysalkis/Downloads/IteratorPattern/IteratorPattern/bin/Debug/IteratorPattern.exe
+/Users/uneysalkis/Downloads/IteratorPattern/IteratorPattern/bin/Debug/IteratorPattern.pdb
+/Users/uneysalkis/Downloads/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.csproj.AssemblyReference.cache
+/Users/uneysalkis/Downloads/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.csproj.CoreCompileInputs.cache
+/Users/uneysalkis/Downloads/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.exe
+/Users/uneysalkis/Downloads/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.pdb
+/Users/uneysalkis/Documents/GitHub/Trip-Advisor/IteratorPattern/IteratorPattern/bin/Debug/IteratorPattern.exe.config
+/Users/uneysalkis/Documents/GitHub/Trip-Advisor/IteratorPattern/IteratorPattern/bin/Debug/IteratorPattern.exe
+/Users/uneysalkis/Documents/GitHub/Trip-Advisor/IteratorPattern/IteratorPattern/bin/Debug/IteratorPattern.pdb
+/Users/uneysalkis/Documents/GitHub/Trip-Advisor/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.csproj.AssemblyReference.cache
+/Users/uneysalkis/Documents/GitHub/Trip-Advisor/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.csproj.CoreCompileInputs.cache
+/Users/uneysalkis/Documents/GitHub/Trip-Advisor/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.exe
+/Users/uneysalkis/Documents/GitHub/Trip-Advisor/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.pdb
+C:\Users\adax4\Desktop\studia projekty\Trip-Advisor-main\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.exe
+C:\Users\adax4\Desktop\studia projekty\Trip-Advisor-main\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.pdb
+C:\Users\adax4\Desktop\studia projekty\Trip-Advisor-main\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.csproj.AssemblyReference.cache
+C:\Users\adax4\Desktop\studia projekty\Trip-Advisor-main\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\adax4\Desktop\studia projekty\Trip-Advisor-main\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\adax4\Desktop\studia projekty\Trip-Advisor-main\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+C:\Users\adax4\Desktop\studia projekty\Trip-Advisor-main\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe
+C:\Users\adax4\Desktop\studia projekty\Trip-Advisor-main\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.pdb
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Iterator Kino\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Iterator Kino\IteratorPattern\bin\Debug\IteratorPattern.exe
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Iterator Kino\IteratorPattern\bin\Debug\IteratorPattern.pdb
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Iterator Kino\IteratorPattern\obj\Debug\IteratorPattern.csproj.AssemblyReference.cache
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Iterator Kino\IteratorPattern\obj\Debug\IteratorPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Iterator Kino\IteratorPattern\obj\Debug\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Iterator Kino\IteratorPattern\obj\Debug\IteratorPattern.exe
+C:\Users\adax4\Desktop\WZORCE PROJEKTOWE C# 35327\Iterator Kino\IteratorPattern\obj\Debug\IteratorPattern.pdb
